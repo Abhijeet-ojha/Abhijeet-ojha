@@ -45,10 +45,8 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijeet-ojha&theme=tokyonight)
 
-![](https://githubreadmestatsfast.vercel.app/api?username=Abhijeet-ojha&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijeet-ojha&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=Abhijeet-ojha&theme=tokyonight&hide_border=true)
-
-![](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Abhijeet-ojha&layout=compact&theme=tokyonight&hide_border=true)
