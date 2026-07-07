@@ -45,8 +45,10 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abhijeet-ojha&theme=tokyonight&hide_border=true&show_icons=true)
+# 📊 GitHub Stats
+
+![](https://githubreadmestatsfast.vercel.app/api?username=Abhijeet-ojha&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://streak-stats.demolab.com?user=Abhijeet-ojha&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-ojha&theme=tokyonight&hide_border=true&layout=compact)
+![](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Abhijeet-ojha&layout=compact&theme=tokyonight&hide_border=true)
