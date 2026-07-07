@@ -45,7 +45,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abhijeet-ojha&theme=tokyonight&hide_border=true&show_icons=true)
+!](https://github-readme-stats.vercel.app/api?username=Abhijeet-ojha&theme=tokyonight&hide_border=true&show_icons=true)
 
 ![](https://streak-stats.demolab.com?user=Abhijeet-ojha&theme=tokyonight&hide_border=true)
 
